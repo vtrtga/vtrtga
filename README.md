@@ -1,4 +1,5 @@
 ### Olá! 👋
+<img src=https://github-readme-stats.vercel.app/api?username=vtrtga&show_icons=true&theme=dark />
 <div>
 <img src=https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white/>
 <img src=https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white/>
