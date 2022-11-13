@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! 👋 Seja bem vindo ao meu Github!
 <div>
 <img src=https://github-readme-stats.vercel.app/api?username=vtrtga&show_icons=true&theme=dark />
 </div>
