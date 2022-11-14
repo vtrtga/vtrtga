@@ -6,7 +6,7 @@
 <img src=https://github-readme-stats.vercel.app/api?username=vtrtga&show_icons=true&theme=dark />
 </div>
 <div>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=vtrtga&layout=compact />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=vtrtga&theme=tokyonight />
 </div>
 
 <div>
