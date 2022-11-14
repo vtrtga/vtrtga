@@ -19,5 +19,3 @@
 <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/>
 <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white/>
 </div>
-
-<img src=https://www.codewars.com/users/vtrtga/badges/small/>
